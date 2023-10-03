@@ -1,11 +1,11 @@
 <h1 align="center">Hello World , I'm Rawan Ellsayed</h1>
 <h3 align="center">I'm student at Ahram canadien université 3rd Year computer science 🖱</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/rawan-elsayyd-863237225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNCoXLlmDRIC0Efw8VQfXJA%3D%3D"><img src="https://github-profile-trophy.vercel.app/?username=merrn60" alt="merrn60" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merrn60" alt="merrn60" /></a> </p>
 
-- 📫 How to reach me rawanelsayyd@gmail.com
+- 📫 How to reach me *rawanelsayyd@gmail.com*
 
-- ⚡ Fun fact I'm lazy 🦥 but my mentality will amaze U 🩷
+- ⚡ Fun fact *I'm lazy 🦥 but my mentality will amaze U 🩷*
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
