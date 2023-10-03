@@ -1,3 +1,31 @@
+{
+  "name": "awesome-github-profiles",
+  "version": "1.0.0",
+  "description": "List of GitHub profiles that have awesome customisation, that you can use for inspiration.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx prettier --check profiles",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "npx prettier --write profiles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddieHubCommunity/awesome-github-profiles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EddieHubCommunity/awesome-github-profiles/issues"
+  },
+  "homepage": "https://github.com/EddieHubCommunity/awesome-github-profiles#readme",
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}
+
+
+
 <h1 align="center">Hi 👋, I'm Rawan Ell-sayed</h1>
 <h3 align="center">A passionate frontend developer from Egypt & I'm network engineer</h3>
 
