@@ -3,7 +3,7 @@
 
 - 📫 How to reach me *rawanelsayyd@gmail.com*
 
-- ⚡ Fun fact *I'm lazy 🦥 but my mentality will amaze U 🩷*
+- ⚡ Fun fact *I'm lazy 🦥 but my mentality will amaze U !*
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
