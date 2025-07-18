@@ -41,16 +41,6 @@ I’m a dedicated Software Engineering student specializing in software testing,
 ## 📝 Blog
 
 Discover my insights on software engineering, testing, and technology at [Hashnode](https://el5amsa-btwqeet-betna.hashnode.dev/).
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Merrn60&show_icons=true&theme=radical" alt="Rawan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merrn60&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🤝 Connect with Me
@@ -63,4 +53,4 @@ Discover my insights on software engineering, testing, and technology at [Hashno
 
 ---
 
-💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+ 
