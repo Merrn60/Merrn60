@@ -31,21 +31,10 @@ I’m a dedicated Software Engineering student specializing in software testing,
 
 ---
 
-## 🌟 Key Projects
+ <p align="center">
+  <img src="https://i.imgflip.com/65efzo.gif" alt="funny gif" height="200" />
+</p>
 
-- **[IWD-Redefine-possible--Software-Testing-Quality-assurance](https://github.com/Merrn60/IWD-Redefine-possible--Software-Testing-Quality-assurance)**  
-  Developed a Java-based project focused on software testing and quality assurance, ensuring robust application performance. Licensed under MIT.
-
-- **[Diet-Support-App](https://github.com/Merrn60/Diet-Support-App)**  
-  Built a full-stack application using C# and MSSQL to support personalized diet planning, showcasing skills in backend development and database management.
-
-- **[Security-Project-cipherApp](https://github.com/Merrn60/Security-Project-cipherApp)**  
-  Created an encryption/decryption application using Jupyter Notebook, implementing classical and modern cipher techniques.
-
-- **[DemoBlaze-E-commerce-Testing](https://github.com/Merrn60/DemoBlaze-E-commerce-Testing)**  
-  Designed and executed automated test cases for an e-commerce platform using Selenium and Java, improving test coverage by 40%.
-
-Explore more on my [GitHub Repositories](https://github.com/Merrn60?tab=repositories).
 
 ---
 
